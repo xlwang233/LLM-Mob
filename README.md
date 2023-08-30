@@ -1,6 +1,6 @@
 # ***L***arge ***L***anguage ***M***odels for Human ***Mob***ility Prediction (LLM-Mob)
 
-Code for the paper ***Where Would I Go Next? Large Language Models as Human Mobility Predictors***.
+Code for the paper ***[Where Would I Go Next? Large Language Models as Human Mobility Predictors](https://arxiv.org/abs/2308.15197)***.
 
 The code is provided for reproducing the main results presented in the paper. However, the results may not be 100 per cent same as presented in the paper, due to the randomness of LLMs and the frequent update of OpenAI's GPT models. That being said, we anticipate that the difference is minimal.
 
@@ -23,3 +23,16 @@ Please note that the code for reproducing results on FSQ-NYC is not included her
 ## Results and evaluation
 We provide the actual prediction results obtained in our experiments in `/results`. 
 To calculate the evaluation metrics, check the IPython notebook `metrics.ipynb` and run the scripts.
+
+## Citation
+
+```bibtex
+@misc{wang2023i,
+      title={Where Would I Go Next? Large Language Models as Human Mobility Predictors}, 
+      author={Xinglei Wang and Meng Fang and Zichao Zeng and Tao Cheng},
+      year={2023},
+      eprint={2308.15197},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
