@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+9,332,"[9, 332, 331, 341, 340, 126, 332, 9, 332, 9]","Based on the user's historical stays, we can see that they have a pattern of visiting place IDs 9 and 332 frequently. Additionally, the recent context stays in <context> also include place ID 9. Therefore, it is highly likely that the user's next place will be either place ID 9 or 332. Other possible places include IDs 331, 341, 340, and 126, which have been visited in the past but not as frequently as IDs 9 and 332."
