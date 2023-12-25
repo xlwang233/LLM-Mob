@@ -18,11 +18,14 @@ python llm-mob.py
 ```
 The log file will be stored in `/logs` and prediction results will be stored in `/output`.
 
-Please note that the code for reproducing results on FSQ-NYC is not included here, but they are very similar. 
-
 ## Results and evaluation
 We provide the actual prediction results obtained in our experiments in `/results`. 
-To calculate the evaluation metrics, check the IPython notebook `metrics.ipynb` and run the scripts.
+To calculate the evaluation metrics, check the IPython notebook `metrics.ipynb` and run the scripts therein.
+
+## Update on OpenAI API
+
+OpenAI has recently released a new major version of their API, therefore the code in this repo has been updated accordingly.
+For more information regarding how the update affect the old code and how we should proceed, check out their [v1.0.0 Migration Guide](https://github.com/openai/openai-python/discussions/742).
 
 ## Citation
 
