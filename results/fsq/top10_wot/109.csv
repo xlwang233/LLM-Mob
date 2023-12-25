@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+109,784,"[1893, 3087, 276, 300, 917, 449, 1893, 1893, 1893, 1893]","Based on the user's historical stays, the most frequently visited places are 1893, 3087, 276, 300, and 917. Considering the recent context stays, the user has visited place 276 and 300. Therefore, it is highly likely that the user's next place will be one of these places."

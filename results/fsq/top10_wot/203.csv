@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+203,569,"[1256, 528, 449, 357, 293, 300, 21, 34, 152, 2333]","Based on the user's historical stays, the user has visited place 1256 multiple times on different days and times. Place 528 and 449 have also been visited multiple times. Additionally, place 357 and 293 have been visited recently according to the context stays. Place 300 has been visited in the morning on multiple occasions. Place 21, 34, 152, and 2333 have also been visited in the evening. Therefore, these are the 10 most likely places for the user's next visit."

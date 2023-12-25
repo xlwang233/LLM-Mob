@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+422,859,"[721, 1554, 951, 981, 413, 1931, 789, 859, 1083, 888]","Based on the user's historical stays, the most frequently visited places are 721, 1554, and 951. Additionally, considering the recent context stays, the user has been to place 981. Therefore, these four places are the most likely next destinations. Other places that have been visited multiple times, such as 413, 1931, 789, 859, 1083, and 888, are also included in the prediction."

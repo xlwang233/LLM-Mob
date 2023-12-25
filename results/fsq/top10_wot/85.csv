@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+85,428,"[3608, 3103, 2368, 428, 1023, 781, 519, 300, 262, 1897]","Based on the user's historical stays, they have frequently visited places with IDs 3608, 3103, 2368, 428, 1023, 781, 519, 300, 262, and 1897. Additionally, the user's recent context stays include places with IDs 300, 428, and 104. Therefore, it is likely that the user's next place will be one of these locations."

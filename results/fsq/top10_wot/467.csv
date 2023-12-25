@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+467,300,"[2119, 931, 3387, 686, 1481, 1517, 1596, 1557, 1275, 2030]","Based on the user's historical stays, they have visited place 2119 and place 931 multiple times. Additionally, in the recent context stays, they have visited place 2119 again. Therefore, it is highly likely that the user's next place will be either place 2119 or place 931. Other possible places include place 3387, place 686, place 1481, place 1517, place 1596, place 1557, place 1275, and place 2030."
