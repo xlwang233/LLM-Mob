@@ -334,7 +334,7 @@ def single_query_top1_fsq(client, historical_data, X):
     prompt = f"""
     Your task is to predict a user's next location based on his/her activity pattern.
     You will be provided with <history> which is a list containing this user's historical stays, then <context> which provide contextual information 
-    about where and when this user have been to recently. Stays in both <history> and <context> are in chronological order.
+    about where and when this user has been to recently. Stays in both <history> and <context> are in chronological order.
     Each stay takes on such form as (start_time, day_of_week, place_id). The detailed explanation of each element is as follows:
     start_time: the start time of the stay in 12h clock format.
     day_of_week: indicating the day of the week.
