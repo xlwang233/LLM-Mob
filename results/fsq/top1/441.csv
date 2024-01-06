@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+441,548,548,"Based on the user's historical stays, they have frequently visited place ID 548 during weekdays. The target stay is on a Tuesday morning, which is a weekday, so it is likely that the user will visit place ID 548 again."

@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+510,2358,779,"Based on the user's historical stays, the user has visited place ID 779 on Sunday at 12:29 PM. Additionally, the user has a stay in the context on Sunday at 07:26 PM, which suggests that the user is likely to stay in the same area. Therefore, it is reasonable to predict that the next place ID is 779."

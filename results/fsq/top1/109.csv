@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+109,784,300,"Based on the user's historical stays, they have visited place ID 300 multiple times on Sundays. Additionally, the most recent stay in the context is also at place ID 300 on a Friday. Therefore, it is likely that the user's next place ID is 300."

@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+121,167,861,"Based on the user's historical stays, the user has frequently visited place ID 861 during weekdays in the afternoon. The target stay is on a Monday afternoon, which aligns with the user's previous pattern. Additionally, the context stays also include a visit to place ID 861 on Monday morning, indicating that the user may have a routine of visiting this place on Mondays. Therefore, the most likely next place ID is 861."

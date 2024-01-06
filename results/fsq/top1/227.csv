@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+227,516,516,"Based on the user's historical stays in the <history> data, the user has frequently visited place ID 516 during different days and times. Additionally, in the <context> data, the user has recently stayed at place ID 516 on Thursday and Saturday. Therefore, it is likely that the user's next location, indicated by <target_stay>, is also place ID 516."

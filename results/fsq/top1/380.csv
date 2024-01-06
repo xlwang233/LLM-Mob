@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+380,273,1056,"Based on the user's historical stays, the user has visited place ID 1056 multiple times on different days and at different times. Additionally, the user has visited place ID 1056 on Monday at 09:30 AM and 09:28 AM. Considering the temporal information of the target stay (12:58 PM on Monday), it is likely that the user will visit place ID 1056 again during the afternoon on Monday."

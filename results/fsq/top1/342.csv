@@ -1,0 +1,3 @@
+user_id,ground_truth,prediction,reason
+342,3038,3360,"Based on the user's historical stays, the most frequently visited place ID is 3360. Additionally, considering the temporal information of the target stay (10:30 AM on a Friday), it is likely that the user will visit a familiar place during daytime on a weekday."
+342,275,2406,"Based on the user's historical stays, they have visited place ID 2406 multiple times during Monday evenings. Additionally, the context stays also include a visit to place ID 2406 on a Monday evening. Therefore, it is likely that the user's next place ID is 2406."

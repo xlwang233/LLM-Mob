@@ -1,0 +1,2 @@
+user_id,ground_truth,prediction,reason
+203,569,569,"Based on the user's historical stays, they have visited place ID 569 on Friday at 07:06 PM. The target stay is also on Friday at 08:27 PM, which suggests that the user is likely to visit the same place again."

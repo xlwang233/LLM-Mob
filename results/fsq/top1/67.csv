@@ -1,0 +1,3 @@
+user_id,ground_truth,prediction,reason
+67,1572,3551,"Based on the user's historical stays, the user has visited place ID 3551 multiple times, including on Thursday, Friday, Sunday, and Wednesday. Additionally, in the context stays, the user visited place ID 3551 on Sunday and Wednesday. Therefore, it is likely that the user's next place ID is 3551, especially considering that the target stay is on Wednesday."
+67,1,3551,"Based on the user's historical stays, the user has visited place ID 3551 multiple times, including on Thursday, Sunday, and Friday nights. Additionally, in the context stays, the user visited place ID 3551 on Sunday night. Therefore, it is likely that the user's next location will be place ID 3551 on Sunday afternoon."
