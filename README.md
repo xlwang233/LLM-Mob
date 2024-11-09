@@ -30,12 +30,10 @@ For more information regarding how the update affect the old code and how we sho
 ## Citation
 
 ```bibtex
-@misc{wang2023i,
-      title={Where Would I Go Next? Large Language Models as Human Mobility Predictors}, 
-      author={Xinglei Wang and Meng Fang and Zichao Zeng and Tao Cheng},
-      year={2023},
-      eprint={2308.15197},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{wang2023would,
+  title={Where would i go next? large language models as human mobility predictors},
+  author={Wang, Xinglei and Fang, Meng and Zeng, Zichao and Cheng, Tao},
+  journal={arXiv preprint arXiv:2308.15197},
+  year={2023}
 }
 ```
